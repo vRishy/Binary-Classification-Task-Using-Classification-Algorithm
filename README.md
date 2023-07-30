@@ -48,3 +48,5 @@ It is important to approach this challenge with sensitivity and respect for the 
    - Summarize the findings and conclusions from the analysis.
    - Report the final model's performance and its ability to predict survival on the Titanic.
    - Provide actionable insights and recommendations based on the results.
+
+
